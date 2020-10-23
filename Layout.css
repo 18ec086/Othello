@@ -1,0 +1,16 @@
+.root {
+    -fx-font-size: 14pt;
+}
+
+.button{
+	-fx-background-color:darkgreen;
+	-fx-border:solid;
+	-fx-border-width: 5px;
+	-fx-font-size:21px;
+	-fx-font-weight:bold;
+    -fx-background-insets: 0.3 0.3 0.3 0.3;
+
+}
+.button:hover{
+	-fx-background-color:lightgreen;
+}
